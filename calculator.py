@@ -1,3 +1,8 @@
+# https://github.com/ellianak/lab10-EK-JT
+# Partner 1: Elliana Kirby
+# Partner 2: Joseph Torchio
+
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
